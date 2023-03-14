@@ -214,7 +214,6 @@ sphinx==4.3.1
     #   sphinx-copybutton
     #   sphinx-design
     #   sphinx-external-toc
-    #   sphinx-notfound-page
 sphinx-book-theme==1.0.0rc2
     # via rocm-docs-core
 sphinx-copybutton==0.5.1
@@ -222,8 +221,6 @@ sphinx-copybutton==0.5.1
 sphinx-design==0.3.0
     # via rocm-docs-core
 sphinx-external-toc==0.3.1
-    # via rocm-docs-core
-sphinx-notfound-page==0.8.3
     # via rocm-docs-core
 sphinxcontrib-applehelp==1.0.4
     # via sphinx

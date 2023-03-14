@@ -6,10 +6,6 @@
 
 from rocm_docs import ROCmDocs
 
-extensions = [
-     'notfound.extension',
-]
-
 docs_core = ROCmDocs("ROCm Documentation")
 docs_core.setup()
 
