@@ -8,6 +8,7 @@ from rocm_docs import ROCmDocs
 
 docs_core = ROCmDocs("ROCm Documentation")
 docs_core.setup()
+docs_core.disable_main_doc_link()
 
 for sphinx_var in ROCmDocs.SPHINX_VARS:
     globals()[sphinx_var] = getattr(docs_core, sphinx_var)
