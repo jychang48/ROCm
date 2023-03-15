@@ -1,8 +1,8 @@
 .venv
 .vscode
-build
 
 # documentation artifacts
+build
 _build/
 _images/
 _static/
