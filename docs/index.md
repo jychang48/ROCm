@@ -1,4 +1,4 @@
-# AMD ROCm Documentation 
+# AMD ROCm Documentation
 
 Welcome to AMD ROCm's documentation!
 
@@ -42,6 +42,12 @@ Welcome to AMD ROCm's documentation!
 ^^^
 
 - [HIP](reference/hip)
+- [Math Libraries](reference/gpu_libraries/math)
+- [C++ Primitives](reference/gpu_libraries/c++_primitives)
+- [Communication Libraries](reference/gpu_libraries/communication)
+- [MIOpen - Machine Intelligence](https://rocmsoftwareplatform.github.io/MIOpen/doc/html/releasenotes.html)
+- [MIGraphX - Graph Optimization](https://rocmsoftwareplatform.github.io/AMDMIGraphX/doc/html/)
+- [Computer Vision](reference/computer_vision)
 - [OpenMP](reference/openmp/openmp)
 - [Compilers and Tools](reference/compilers)
 - [Management Tools](reference/management_tools)
@@ -63,6 +69,7 @@ Understand ROCm
 :padding: 2
 How to Guides
 ^^^
+
 - [How to Isolate GPUs in Docker?](how_to/docker_gpu_isolation)
 - [Setting up for Deep Learning with ROCm](how_to/deep_learning_rocm)
   - [Magma Installation](how_to/magma_install/magma_install)

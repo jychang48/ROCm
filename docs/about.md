@@ -28,9 +28,17 @@ upstream project is using a different tool).
 originally used for python. It is now widely used in the Open Source community.
 Originally, sphinx supported rst based documentation. Markdown support is now
 available. ROCm documentation plans to default to markdown for new projects.
-Existing projects using rst are under no obligation to convert to markdown. New projects
-that believe markdown is not suitable should contact the documentation team
-prior to selecting rst.
+Existing projects using rst are under no obligation to convert to markdown. New
+projects that believe markdown is not suitable should contact the documentation
+team prior to selecting rst.
+
+### MyST
+[Markedly Structured Text (MyST)](https://myst-tools.org/docs/spec) is an extended 
+flavor of Markdown ([https://commonmark.org/](CommonMark)) influenced by ReStructured 
+Text (RST) and Sphinx.
+It is intergrated via [`myst-parser`](https://myst-parser.readthedocs.io/en/latest/).
+A cheat sheet that showcases how to use the MyST syntax is available over at [the Jupyter
+reference](https://jupyterbook.org/en/stable/reference/cheatsheet.html).
 
 ### Sphinx Theme
 
