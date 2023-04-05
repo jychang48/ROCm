@@ -1,1 +1,2 @@
 git+https://github.com/RadeonOpenCompute/rocm-docs-core.git
+sphinx-new-tab-link==0.1.1

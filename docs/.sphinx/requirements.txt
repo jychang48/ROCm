@@ -205,6 +205,7 @@ sphinx==4.3.1
     #   sphinx-copybutton
     #   sphinx-design
     #   sphinx-external-toc
+    #   sphinx-new-tab-link
     #   sphinx-notfound-page
 sphinx-book-theme==1.0.0rc2
     # via rocm-docs-core
@@ -214,6 +215,8 @@ sphinx-design==0.3.0
     # via rocm-docs-core
 sphinx-external-toc==0.3.1
     # via rocm-docs-core
+sphinx-new-tab-link==0.1.1
+    # via -r .sphinx/requirements.in
 sphinx-notfound-page==0.8.3
     # via rocm-docs-core
 sphinxcontrib-applehelp==1.0.4

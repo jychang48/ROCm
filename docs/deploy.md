@@ -10,8 +10,8 @@ via many mechanisms.
 Quick Start
 ^^^
 
-- [Linux](quick_start)
-- [Windows](hip_sdk_install_win/hip_sdk_install_win)
+- [Linux](how_to/quick_start_linux)
+- [Windows](how_to/quick_start_windows)
 
 ::::
 
